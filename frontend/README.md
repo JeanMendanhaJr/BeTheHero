@@ -7,20 +7,20 @@
   <img alt="desktop" src="../.github/Desktop.gif" width="700px">
 </p>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JeanMendanhaJr/BeTheHero?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/SemanaOmnistack11">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JeanMendanhaJr/BeTheHero">
 	
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+  <a href="https://www.linkedin.com/in/jeancarlosmendanha/">
+    <img alt="Made by JeanMendanha" src="https://img.shields.io/badge/made%20by-JeanMendanha-%2304D361">
   </a>
 
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/SemanaOmnistack11">
+  <a href="https://github.com/JeanMendanhaJr/BeTheHero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JeanMendanhaJr/BeTheHero">
   </a>
 
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/DanielObara/SemanaOmnistack11">
+  <a href="https://github.com/JeanMendanhaJr/BeTheHero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/JeanMendanhaJr/BeTheHero">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -69,4 +69,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
+Made with ♥ by Jean Mendanha :wave: [Get in touch!](https://www.linkedin.com/in/jeancarlosmendanha/)
