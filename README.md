@@ -11,7 +11,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/JeanMendanhaJr/BeTheHero">
 	
   <a href="https://www.linkedin.com/in/jeancarlosmendanha/">
-    <img alt="Made by Jean Mendanha" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+    <img alt="Made by Jean Mendanha" src="https://img.shields.io/badge/made%20by-JeanMendanha-%2304D361">
   </a>
 
   <a href="https://github.com/JeanMendanhaJr/BeTheHero/commits/master">
